@@ -1,4 +1,4 @@
-baseURL = "https://aloyr.github.io/ghp-test1/public/"
+baseURL = "https://aloyr.github.io/ghp-test1/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
